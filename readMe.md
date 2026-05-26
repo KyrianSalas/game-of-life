@@ -1,6 +1,6 @@
 # Conway's Game of Life (Go)
 
-A high-performance implementation of **Conway's Game of Life**, developed as part of the Computer Science curriculum at the **University of Bristol**. This project demonstrates the progression from a basic sequential model to a highly parallelised, distributed system leveraging Go's concurrency primitives.
+A high-performance implementation of **Conway's Game of Life**, developed as part of the Computer Science curriculum at the **University of Bristol** (COMS20008 - Computer Systems A). This project demonstrates the progression from a basic sequential model to a highly parallelised, distributed system leveraging Go's concurrency primitives. Achieved 1st (82)
 
 ## Overview
 The simulation is implemented across two major development phases, focusing on scalability, synchronisation, and network communication.
